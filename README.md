@@ -3,11 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishpalchauhan288&label=Profile%20views&color=0e75b6&style=flat" alt="shishpalchauhan288" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishpalchauhan288" alt="shishpalchauhan288" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shishpal_07" target="blank"><img src="https://img.shields.io/twitter/follow/shishpal_07?logo=twitter&style=for-the-badge" alt="shishpal_07" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, DSA**
 
