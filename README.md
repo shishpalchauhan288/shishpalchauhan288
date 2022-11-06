@@ -1,3 +1,4 @@
+  [![masterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://shishpalchauhan288.io) 
 <h1 align="center">Hi 👋, I'm shishpal chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -16,6 +17,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1d6TZRuvgOCBDYHBybZ-Mep6F1y60FVIG667d00kn52A/edit?usp=sharing](https://docs.google.com/document/d/1d6TZRuvgOCBDYHBybZ-Mep6F1y60FVIG667d00kn52A/edit?usp=sharing)
 
 - ⚡ Fun fact **I am amiable and fun loving person**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
