@@ -1,6 +1,6 @@
   [![masterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://shishpalchauhan288.io) 
 <h1 align="center">Hi 👋, I'm shishpal chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
